@@ -1,0 +1,8 @@
+# Large datasets (exceed GitHub's 100 MB file limit)
+bangkok_traffy.csv
+data_2024.csv
+data/bangkok_traffy_clean.csv
+data/bangkok_merge_congestion.csv
+
+.ipynb_checkpoints/
+__pycache__/
